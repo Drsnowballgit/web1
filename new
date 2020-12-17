@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+      <title>WEB1 -html</title>
+      <meta charset="utf-8">
+</head>
+
+
+<body>
+<h1><a href="index.html">WEB</a></h1>
+
+<ol>
+<li> <a href="1.html">HTML</a> </li>
+<li> <a href="2.html">CSS</a> </li>
+<li> <a href="3.html">JAVA SCRIPT</a> </li>
+</ol>
+
+<ul>
+<li> ltg620 </li>
+<li> k8805</li>
+<li> toubin</li>
+</ul>
+<h1><a href="https://www.w3.org/TR/html52/" target="_blank" title = "호랑이">HTML이란 무엇인가??</a> </h1>
+hello web은 나의 <u>처음</u> <strong>웹페이지</strong>이다.
+<h2>W3C</h2>
+
+사고력 기반 에듀테크 기업 씨엠에스에듀(CMS에듀, 대표 이충국)는 유니티와의 공식 파트너십을 통해 개발한 ‘코드얼라이브(codeAlive)’를 12월 1일 정식 출시했다.
+
+코드얼라이브는 유니티(Unity) 엔진 기반의 코딩교육 플랫폼으로, 씨엠에스에듀의 코딩교육 브랜드 씨큐브코딩(C3 Coding)을 통해 수업을 시작했다. 코드얼라이브는 가장 유망한 프로그래밍 언어인 파이썬(Python)을 효율적으로 배울 수 있는 새로운 코딩교육 플랫폼이다. 파이썬은 문법이 쉽고 간결해 코딩 입문자도 쉽게 배울 수 있어 국내외 코딩교육에도 파이썬을 채택하는 강좌가 늘어나는 추세이다.
+
+코드얼라이브는 코딩 입문자부터 전문가까지 파이썬을 학습할 수 있는 커리큘럼을 갖추었다. 기본 문법부터 심화 과정인 알고리즘, 인공지능(AI), 머신러닝(ML)에 이르기까지 개념 학습부터 코드 구현까지 하나의 플랫폼 안에서 이루어진다.
+
+<img src="tiger.jpg" width="100%">
+<p style="margin-top:50px;">
+  사고력 기반 에듀테크 기업 씨엠에스에듀(CMS에듀, 대표 이충국)는 유니티와의 공식 파트너십을 통해 개발한 ‘코드얼라이브(codeAlive)’를 12월 1일 정식 출시했다.
+
+  코드얼라이브는 유니티(Unity) 엔진 기반의 코딩교육 플랫폼으로, 씨엠에스에듀의 코딩교육 브랜드 씨큐브코딩(C3 Coding)을 통해 수업을 시작했다. 코드얼라이브는 가장 유망한 프로그래밍 언어인 파이썬(Python)을 효율적으로 배울 수 있는 새로운 코딩교육 플랫폼이다. 파이썬은 문법이 쉽고 간결해 코딩 입문자도 쉽게 배울 수 있어 국내외 코딩교육에도 파이썬을 채택하는 강좌가 늘어나는 추세이다.
+
+  코드얼라이브는 코딩 입문자부터 전문가까지 파이썬을 학습할 수 있는 커리큘럼을 갖추었다. 기본 문법부터 심화 과정인 알고리즘, 인공지능(AI), 머신러닝(ML)에 이르기까지 개념 학습부터 코드 구현까지 하나의 플랫폼 안에서 이루어진다.
+
+<p>
+  <div id="disqus_thread"></div>
+  <script>
+      /**
+      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+      /*
+      var disqus_config = function () {
+      this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+      this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+      };
+      */
+      (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
+      s.src = 'https://web1-cxtvkswcyu.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+</p>
+
+</body>

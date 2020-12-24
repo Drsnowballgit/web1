@@ -24,7 +24,10 @@
   .ex{
     margin-left : 0px;
   }
-
+  #index {
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+  }
   #g1 {
     margin-top: 46px;
     text-indent: 10px;
@@ -46,12 +49,14 @@
   }
 
 
-  }
   @media (max-width:800px) {
+    .gn {
+      display : none;
+
+    }
     .grid {
       display : block;
     }
-
     h2 {
       border-right: none;
     }

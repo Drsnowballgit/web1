@@ -41,17 +41,17 @@
   .grid  {
     display : grid;
     grid-template-columns: 300px 1fr;
-    grid-template-rows : reapeat(20, 1fr);
-    border : solid 1px grey;
+    grid-template-rows : reapeat(10, 1fr);
+
+  }
+
 
   }
   @media (max-width:800px) {
     .grid {
       display : block;
     }
-    .gn {
-      display: none;
-    }
+
     h2 {
       border-right: none;
     }

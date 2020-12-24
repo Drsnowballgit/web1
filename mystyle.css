@@ -42,7 +42,7 @@
     display : grid;
     grid-template-columns: 300px 1fr;
     grid-template-rows : reapeat(10, 1fr);
-
+    border : none;
   }
 
 
